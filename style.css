@@ -60,6 +60,11 @@ button:hover{
     color: #ffffff;
 }
 
+button:active{
+    background-color: #000000;
+    color: #ffffff;
+}
+
 ul li{
     list-style-type:circle;
     font-size: small;
