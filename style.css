@@ -26,6 +26,7 @@ div.div2{
 
 div.div2:hover{
     opacity: 0.9;
+    margin-top: -5px;
 }
 
 div.div3{
